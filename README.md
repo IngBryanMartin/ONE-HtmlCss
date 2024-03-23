@@ -7,5 +7,6 @@
 - hola2
 - hola3
 - hola4
-* hola5
-* hola6
+1. hola5
+hola6
+1. hola7
