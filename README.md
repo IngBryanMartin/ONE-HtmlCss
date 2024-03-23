@@ -2,4 +2,6 @@
 ## Test subtitle
 *Texto en cursiva*  
 **Texto en negrita**  
-~~Texto tachado~~
+~~Texto tachado~~  
+-hola
+- hola2
